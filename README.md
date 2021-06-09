@@ -4,7 +4,7 @@
 ### I am a Front-End Developer From Nepal.
 
 
-### 👨‍💻 Languages and Tools I Often Use:
+### 👨‍💻 Languages and Tools I Use:
 
 <br />
 
@@ -23,4 +23,4 @@
 
 My Github Stats:
 
-[![Skyz93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyz03&show_icons=true&theme=dark)))](https://github.com/Skyz03/github-readme-stats)
+[![Skyz93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyz03&show_icons=true&theme=dark)))](https://github.com/Skyz03)
