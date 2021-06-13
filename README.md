@@ -1,7 +1,7 @@
 ### Hi there👋, 
 ### My name is Skyz03
 
-### I am a Front-End Developer From Nepal.
+### I am a Front-End Developer.
 
 
 ### 👨‍💻 Languages and Tools I Use:
