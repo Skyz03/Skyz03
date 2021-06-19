@@ -1,7 +1,5 @@
 ### Hi there👋, 
-### My name is Skyz03
-
-### I am a Front-End Developer.
+### My name is Skyz03. I am a Front-End Developer having strong fundamentals in HTML & CSS.
 
 
 ### 👨‍💻 Languages and Tools I Use:
