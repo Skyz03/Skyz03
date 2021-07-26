@@ -1,5 +1,5 @@
 ### Hi there👋, 
-### My name is Skyz03. I am a Front-End Developer having strong fundamentals in HTML & CSS.
+### My name is Skyz03. I am a Front-End Developer having strong fundamentals in HTML & aCSS.
 
 ### Course Completion: 
 ![image](https://user-images.githubusercontent.com/42742924/123113904-a1b5e980-d45e-11eb-993a-b524955aa8f7.png)
