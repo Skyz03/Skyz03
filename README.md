@@ -1,4 +1,4 @@
-### Hi there👋, 
+### Hi there👋, k
 ### My name is Skyz03. I am a Front-End Developer having strong fundamentals in HTML & CSS.
 
 ### Course Completion: 
