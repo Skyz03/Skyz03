@@ -4,9 +4,7 @@
 ### Course Completion: 
 ![image](https://user-images.githubusercontent.com/42742924/123113904-a1b5e980-d45e-11eb-993a-b524955aa8f7.png)
 ![Screenshot 2021-06-27 at 09-09-57 freeCodeCamp org](https://user-images.githubusercontent.com/42742924/123534021-9baf5980-d739-11eb-97fa-cb8db409a5d5.png)
-![Screenshot 2021-08-31 at 16-30-01 freeCodeCamp org](https://user-images.githubusercontent.com/42742924/131491346-5ab78e42-48f2-4150-89ca-34d841ac71e4.png)
-
-
+![image](https://user-images.githubusercontent.com/42742924/131491648-0bb7e709-4d7e-4f4d-a8c0-e83920f0225c.png)
 
 ### 👨‍💻 Languages and Tools I Use:
 
