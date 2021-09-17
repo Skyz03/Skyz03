@@ -6,7 +6,7 @@
 ![Screenshot 2021-06-27 at 09-09-57 freeCodeCamp org](https://user-images.githubusercontent.com/42742924/123534021-9baf5980-d739-11eb-97fa-cb8db409a5d5.png)
 ![image](https://user-images.githubusercontent.com/42742924/131491648-0bb7e709-4d7e-4f4d-a8c0-e83920f0225c.png)
 
-### 👨‍💻 Languages and Tools I Use:aa
+### 👨‍💻 Languages and Tools I Use:
 
 <br />
 
