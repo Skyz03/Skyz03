@@ -28,5 +28,5 @@
 My Github Stats:
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=skyz03&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=skyz03&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Skyz03&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
