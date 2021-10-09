@@ -18,7 +18,7 @@ Inspiring **Front-End Developer**
   
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Skyz03)](https://github.com/Skyz03)
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Skyz03)](https://github.com/Skyz03)
 
 My Github Stats:
 <p align="center">
