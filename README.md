@@ -7,7 +7,8 @@
 - School at **UC**，Major in **Software Engineering & Information Systems**💻
 - Inspiring **Front-End Developer** 
 
-## ⚡ Course Taken: 
+## ⚡ Course Taken
+  
 <p>
 <img width="33%" src="https://user-images.githubusercontent.com/42742924/123113904-a1b5e980-d45e-11eb-993a-b524955aa8f7.png" />
 <img width="33%" src="https://user-images.githubusercontent.com/42742924/123534021-9baf5980-d739-11eb-97fa-cb8db409a5d5.png" />
@@ -24,11 +25,12 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=for-the-badge&logo=json&link=https://github.com/Skyz03)](https://github.com/Skyz03)
 
-My Github Stats:
+## ⚡ GitHub Stats
+  
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=skyz03&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Skyz03&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=skyz03&show_icons=true&theme=tokyonight" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=Skyz03&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyz03&theme=tokyonight" /> 
 </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyz03)](https://github.com/anuraghazra/github-readme-stats)
 
