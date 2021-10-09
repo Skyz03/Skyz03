@@ -1,5 +1,7 @@
-### Hi there👋, 
-### My name is Skyz03. I am a Front-End Developer having strong fundamentals in HTML & CSS.
+<div align="center">
+
+<h1> Hi there, I'm Skyz03 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
 
 ### Course Completion: 
 ![image](https://user-images.githubusercontent.com/42742924/123113904-a1b5e980-d45e-11eb-993a-b524955aa8f7.png)
@@ -26,3 +28,4 @@
 My Github Stats:
 
 [![Skyz93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyz03&show_icons=true&theme=dark)))](https://github.com/Skyz03)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Skyz03&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=C2DDC5&sideNums=00FF55)](https://git.io/streak-stats)
