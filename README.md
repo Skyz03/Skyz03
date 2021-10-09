@@ -2,6 +2,7 @@
 
 <h1> Hi there, I'm skyz03 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
+School at **UC**，Major in **Software Engineering & Information Systems**💻
 
 ### Course Completion: 
 ![image](https://user-images.githubusercontent.com/42742924/123113904-a1b5e980-d45e-11eb-993a-b524955aa8f7.png)
