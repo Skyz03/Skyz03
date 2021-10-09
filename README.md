@@ -28,4 +28,4 @@
 My Github Stats:
 
 [![Skyz93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyz03&show_icons=true&theme=dark)))](https://github.com/Skyz03)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Skyz03&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=C2DDC5&sideNums=00FF55)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skyz03&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=C2DDC5&sideNums=00FF55)](https://git.io/streak-stats)
