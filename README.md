@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Hi there, I'm Skyz03 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1> Hi there, I'm skyz03 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 
 ### Course Completion: 
@@ -26,6 +26,7 @@
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Skyz03)](https://github.com/Skyz03)
 
 My Github Stats:
-
-[![Skyz93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyz03&show_icons=true&theme=dark)))](https://github.com/Skyz03)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skyz03&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=C2DDC5&sideNums=00FF55)](https://git.io/streak-stats)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=skyz03&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=skyz03&theme=tokyonight" />
+</p>
