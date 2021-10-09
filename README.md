@@ -3,7 +3,8 @@
 <h1> Hi there, I'm Skyz03 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 - School at **UC**，Major in **Software Engineering & Information Systems**💻
-- Inspiring **Front-End Developer** ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=skyz03.visitor-badge) 
+- Inspiring **Front-End Developer** 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=skyz03.visitor-badge) 
 
 ## ⚡ Course Taken: 
 <p>
@@ -28,4 +29,4 @@ My Github Stats:
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Skyz03&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
   
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username={Skyz03}&theme=blue-green)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username={skyz03}&theme=blue-green)
