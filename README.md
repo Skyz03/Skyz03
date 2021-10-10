@@ -4,9 +4,14 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=skyz03.visitor-badge) 
 
-- School at **UC**，Major in **Software Engineering & Information Systems**💻
+- University at **UC**，Major in **Software Engineering & Information Systems**💻
 - Inspiring **Front-End Developer** 
 
+## ⚡ Follow Me On
+
+<a href="https://www.linkedin.com/in/aakib-z-shah-z-a50b76176/" target="blank"><img src="icons/linkedin.svg" alt="Skyz03" width="22px" /></a>
+<a href="https://www.frontendmentor.io/profile/Skyz03" target="blank"><img src="icons/frontend-mentor.jpg" alt="Skyz03" width="22px" /></a>
+  
 ## ⚡ Course Taken
   
 <p>
