@@ -9,8 +9,8 @@
 
 ## ⚡ Follow Me On
 
-<a href="https://www.linkedin.com/in/aakib-z-shah-z-a50b76176/" target="blank"><img src="icons/linkedin.svg" alt="Skyz03" width="50px" /></a>
-<a href="https://www.frontendmentor.io/profile/Skyz03" target="blank"><img src="icons/frontend-mentor.jpg" alt="Skyz03" width="50px" /></a>
+<a href="https://www.linkedin.com/in/aakib-z-shah-z-a50b76176/" target="_blank"><img src="icons/linkedin.svg" alt="Skyz03" width="50px" /></a>
+<a href="https://www.frontendmentor.io/profile/Skyz03" target="_blank"><img src="icons/frontend-mentor.jpg" alt="Skyz03" width="50px" /></a>
   
 ## ⚡ Course Taken
   
