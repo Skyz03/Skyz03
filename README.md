@@ -1,4 +1,4 @@
-<div align="center">a
+<div align="center">
 
 <h1> Hi there, I'm Skyz03 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
@@ -18,6 +18,11 @@
 <img width="33%" src="https://user-images.githubusercontent.com/42742924/123113904-a1b5e980-d45e-11eb-993a-b524955aa8f7.png" />
 <img width="33%" src="https://user-images.githubusercontent.com/42742924/123534021-9baf5980-d739-11eb-97fa-cb8db409a5d5.png" />
 <img width="33%" src="https://user-images.githubusercontent.com/42742924/131491648-0bb7e709-4d7e-4f4d-a8c0-e83920f0225c.png" />
+</p>  
+ 
+<p>
+<img width="50%" src="https://user-images.githubusercontent.com/42742924/147492391-2e93a19e-51d1-41f5-8d85-4105b39e9619.png" />
+
 </p>  
   
 ## ⚡ Technologies
