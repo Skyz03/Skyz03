@@ -22,6 +22,7 @@
 - 📫 How to reach me **Linkedin & Github**
 
 <div align="center">
+   
 ## ⚡ Follow Me On
 
 <a href="https://www.linkedin.com/in/aakib-z-shah-z-a50b76176/" target="_blank"><img src="icons/linkedin.svg" alt="Skyz03" width="50px" /></a>
@@ -52,6 +53,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=for-the-badge&logo=json&link=https://github.com/Skyz03)](https://github.com/Skyz03)
 
+</div> 
+   
 ## ⚡ GitHub Stats
   
 <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyz03&theme=tokyonight" />   
@@ -59,7 +62,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=skyz03&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Skyz03&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />  
 </p>
-</div> 
 
 
 
