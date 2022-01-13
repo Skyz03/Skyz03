@@ -27,9 +27,7 @@
 
 <a href="https://www.linkedin.com/in/aakib-z-shah-z-a50b76176/" target="_blank"><img src="icons/linkedin.svg" alt="Skyz03" width="50px" /></a>
 <a href="https://www.frontendmentor.io/profile/Skyz03" target="_blank"><img src="icons/frontend-mentor.jpg" alt="Skyz03" width="50px" /></a>
-  
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyz03" alt="skyz03" /></a> </p>
-  
+    
 ## ⚡ Course Taken
   
 <p>
@@ -55,7 +53,9 @@
 
    
 ## ⚡ GitHub Stats
-  
+   
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyz03" alt="skyz03" /></a> </p>
+
 <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyz03&theme=tokyonight" />   
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=skyz03&show_icons=true&theme=tokyonight" />
