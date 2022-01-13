@@ -2,10 +2,10 @@
 
 <h1> Hi there, I'm Skyz03 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-</div>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=skyz03.visitor-badge) 
-
+</div>
+   
 - University at **UC**，Major in **Software Engineering & Information Systems**💻
 - Inspiring **Front-End Developer** 
    
@@ -21,12 +21,13 @@
 
 - 📫 How to reach me **Linkedin & Github**
 
+<div align="center">
 ## ⚡ Follow Me On
 
 <a href="https://www.linkedin.com/in/aakib-z-shah-z-a50b76176/" target="_blank"><img src="icons/linkedin.svg" alt="Skyz03" width="50px" /></a>
 <a href="https://www.frontendmentor.io/profile/Skyz03" target="_blank"><img src="icons/frontend-mentor.jpg" alt="Skyz03" width="50px" /></a>
   
-<div align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyz03" alt="skyz03" /></a> </p>
   
 ## ⚡ Course Taken
   
@@ -59,10 +60,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Skyz03&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />  
 </p>
 </div> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skyz03&label=Profile%20views&color=0e75b6&style=flat" alt="skyz03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyz03" alt="skyz03" /></a> </p>
 
 
 
