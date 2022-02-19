@@ -4,6 +4,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=skyz03.visitor-badge) 
+[![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 </div>
    
 - University at **UC**，Major in **Software Engineering & Information Systems**💻
