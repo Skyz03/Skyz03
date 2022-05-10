@@ -39,9 +39,9 @@
  
 <p>
 <img width="50%" src="https://user-images.githubusercontent.com/42742924/147492391-2e93a19e-51d1-41f5-8d85-4105b39e9619.png" />
-<img width="50%" src="https://user-images.githubusercontent.com/42742924/167678728-77340e84-7c36-416d-8280-aeb2f8ad54a8.png" />
+<img width="50%" src="https://user-images.githubusercontent.com/42742924/167679057-3579af6b-044f-4ac8-90d4-04fa62ed4072.png" />
 </p>  
-  
+
 ## ⚡ Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
