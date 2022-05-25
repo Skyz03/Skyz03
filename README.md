@@ -38,8 +38,9 @@
 </p>  
  
 <p>
-<img width="50%" src="https://user-images.githubusercontent.com/42742924/147492391-2e93a19e-51d1-41f5-8d85-4105b39e9619.png" />
-<img width="50%" src="https://user-images.githubusercontent.com/42742924/167679057-3579af6b-044f-4ac8-90d4-04fa62ed4072.png" />
+<img width="48%" src="https://user-images.githubusercontent.com/42742924/147492391-2e93a19e-51d1-41f5-8d85-4105b39e9619.png" />
+<img width="49%" src="https://user-images.githubusercontent.com/42742924/167679057-3579af6b-044f-4ac8-90d4-04fa62ed4072.png" />
+<img width="60%" src="https://user-images.githubusercontent.com/42742924/170206872-3a808cae-2fe8-467a-9907-e5dac2b361db.jpg" />
 </p>  
 
 ## ⚡ Technologies
