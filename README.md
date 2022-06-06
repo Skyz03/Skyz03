@@ -18,8 +18,6 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at [http://aakibshah.com.np/#projects-section](http://aakibshah.com.np/#projects-section)
-
 - 📫 How to reach me **Linkedin & Github**
 
 <div align="center">
